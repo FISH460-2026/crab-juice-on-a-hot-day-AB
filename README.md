@@ -1,4 +1,3 @@
-## A Quarto Manuscript Template
+## Hemigrapsus Oregonensis stress response
 
-This is a template repo for generating a manuscript from Quarto that accompanies the tutorial at: [Quarto Manuscripts: RStudio](https://quarto.org/docs/manuscripts/authoring/rstudio.html)
-
+Testing the physiological and behavioral responses of Hemigrapsus oregonensis in the presence of Carcinus maenas.
